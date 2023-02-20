@@ -1,10 +1,11 @@
 import React from "react";
+import './index.css'
 
 function App() {
 
   return (
     <div>
-      <p>hello world</p>
+      <h1 className="underline decoration-sky-500">Hello world</h1>
     </div>
   )
 }
