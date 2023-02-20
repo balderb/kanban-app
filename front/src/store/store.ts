@@ -5,4 +5,4 @@ const store = configureStore({
     // Add your reducers here
 })
 
-export default store:
+export default store;
